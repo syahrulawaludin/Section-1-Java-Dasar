@@ -18,7 +18,7 @@ public class Statement {
         System.out.println("Hello World");
 
         // Objek creation statement
-        Date datae = new Date();
+        // Date datae = new Date();
 
         // Block
         // Block adalah kumpulan statement yang terdiri dari nol atau lebih statement
