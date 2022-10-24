@@ -14,7 +14,7 @@ public class MethodVariableArgument {
         sayCongrats("Eko", values);
 
     } 
-        static void sayCongrats(String nama, int [] values) {
+        static void sayCongrats(String nama, int[] values) {
 
             int total = 0;
             for (var value :  values) {
