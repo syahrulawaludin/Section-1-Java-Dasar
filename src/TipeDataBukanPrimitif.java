@@ -16,21 +16,31 @@ public class TipeDataBukanPrimitif {
         // Tipe data bukan primitif  : Byte, Short, Integer, Long, Float, Double.
         
         Integer iniInteger = 100;
-        Long intLong = 10000L;
+        Long iniLong = 10000L;
 
-        Byte intByte = null;
+        Byte iniByte = null;
 
-        System.out.println(intByte);
+        System.out.println(iniByte);
+        iniByte = 100;
+        System.out.println(iniByte);
 
+  
+
+        // Konversi dari tipe primitif
+        
         int iniInt = 100;
-        System.out.println(intByte);
+        Integer iniObject = iniInteger;
 
-        int intInt = 100;
+        short iniShort  = iniObject.shortValue();
+        long iniLong2 = iniObject.longValue();
+        float iniFloat = iniObject.floatValue();
 
-        Integer intInteger = intInt;
+        Long amount = 10000000L;
+        
 
 
-        // Konversi dari tipe primitif 
+
+
         
 
        
