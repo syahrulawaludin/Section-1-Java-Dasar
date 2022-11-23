@@ -25,6 +25,8 @@ public class Variabel {
         var middleName = "Kurniawan";
         var  lastName = "Khannedy";
 
+        final String application = "Belajar Java";
+
         var company = "Programmer Zaman Now";
         System.out.println(company);
 
@@ -32,6 +34,8 @@ public class Variabel {
         System.out.println(middleName);
         System.out.println(lastName);
 
+        // application = "belajar php"; 
+        // value dari kata kunci final tidak bisa diubah
 
 
 
