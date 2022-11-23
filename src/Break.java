@@ -4,7 +4,7 @@ public class Break {
         // Break & Continue 
 
         // Pada swicth statement, kita sudah mengenal kata kunci break, yaitu untuk menghentikan case dalam switch
-        // sama dengan pada perulangan, break juga digunakan untuk  menghentikan seluruh perulangan
+        // Sama dengan pada perulangan, break juga digunakan untuk  menghentikan seluruh perulangan
         // Namun berbeda dengan continue, continue digunakan untuk menghentikan perulangan saat ini, lalu melanjutkan ke perulangan selanjutnya
 
         var counter = 1;

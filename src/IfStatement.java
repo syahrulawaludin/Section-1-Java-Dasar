@@ -15,7 +15,7 @@ public class IfStatement {
         if (nilai <= 80 && absen >=60) {
             System.out.println("Anda lullus");
         }
-
+ 
     }
     
 }

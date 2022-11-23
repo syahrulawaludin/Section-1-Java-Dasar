@@ -6,7 +6,7 @@ public class Variabel {
         // Untuk membuat variabel di Java kita bisa  menggunakan nama tipe data lalu diikuti dengan nama variabel nya
         // Nama variabel boleh mengandung whitespace (spasi, enter,tab) dan tidak boleh menggunakan number.
 
-        String name;
+        String name; 
         name = "Syahrul Awaludin";
 
         int age = 18;
@@ -28,7 +28,9 @@ public class Variabel {
         var company = "Programmer Zaman Now";
         System.out.println(company);
 
-
+        System.out.println(firstName);
+        System.out.println(middleName);
+        System.out.println(lastName);
 
 
 

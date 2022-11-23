@@ -1,4 +1,4 @@
-public class ForEach {
+ public class ForEach {
     public static void main(String[] args) {
         
         String[] names = {
